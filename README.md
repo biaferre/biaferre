@@ -2,7 +2,7 @@
   <b>Beatriz Férre</b>
 </h1>
 
-Heya! I'm Beatriz Férre, a C.S student currently studying and living in Recife, Brazil. I study at <a href="https://portal.cin.ufpe.br">CIn UFPE</a>, and am a member of the <a href="https://www.developeracademy.cin.ufpe.br">Apple Developer Academy</a>, where I learn Apple's design guidelines and Swift programming. I am very interested in Product and UX/UI Design, and often post about it <a href= "instagram.com/okbibia">here</a>. 
+Heya! I'm Beatriz Férre, a C.S student currently studying and living in Recife, Brazil. I study at <a href="https://portal.cin.ufpe.br">CIn UFPE</a>, and am a member of the <a href="https://www.developeracademy.cin.ufpe.br">Apple Developer Academy</a>, where I learn Apple's design guidelines and Swift programming. I am very interested in Product and UX/UI Design, and often post about it <a href= "https://www.instagram.com/okbibia/">here</a>. 
 
 <br>
 
@@ -38,4 +38,4 @@ Heya! I'm Beatriz Férre, a C.S student currently studying and living in Recife,
 
 ------
 
-Layout redit: [abhigyantrips](https://github.com/abhigyantrips)
+Layout credit: [abhigyantrips](https://github.com/abhigyantrips)
