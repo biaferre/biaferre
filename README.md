@@ -34,8 +34,6 @@ Heya! I'm Beatriz Férre, a C.S student currently studying and living in Recife,
 </p>
 <br>
 
-[![Bia Férre's Activity Graph](https://activity-graph.herokuapp.com/graph?username=biaferre&custom_title=Bia%20Ferre's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
-
 ------
 
 Layout credit: [abhigyantrips](https://github.com/abhigyantrips)
