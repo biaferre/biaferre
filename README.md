@@ -13,16 +13,8 @@
 - 🍵 also interested in Product and UX/UI Design, and often post about it <a href= "https://www.instagram.com/okbibia/">here</a>. 
 
 
-<!--
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
-  </a>
-</div>
--->
-
 <br>
-### more about me...
+## more about me...
 
 </br>
 <p align="center">
