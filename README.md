@@ -33,7 +33,7 @@
 <br/>
 <p align="left">
 <img src = "https://github-readme-stats.vercel.app/api?username=biaferre&theme=solarized-light&show_icons=true)"/>    
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=biaferre&theme=gruvbox&hide_border=true" />
+ <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biaferre&theme=solarized-light&layout=compact"/>
 </p>
 <br>
 
