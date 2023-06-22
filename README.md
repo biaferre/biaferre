@@ -33,7 +33,7 @@
 <br/>
 <p align="center">
 <img src = "https://github-readme-stats.vercel.app/api?username=biaferre&theme=solarized-light&show_icons=true)"/>    
- <img width = "20%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=biaferre&theme=solarized-light&layout=compact"/>
+ <img height = "40%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=biaferre&theme=solarized-light&layout=compact"/>
 </p>
 <br>
 
