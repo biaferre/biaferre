@@ -13,9 +13,7 @@
 - 🍵 also interested in Product and UX/UI Design, and often post about it <a href= "https://www.instagram.com/okbibia/">here</a>. 
 
 
-<h3 align="left">
-  <b>Stats 📐</b>
-</h3>
+### Stats 📐
 
 <p align="center">
 
