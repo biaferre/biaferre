@@ -28,7 +28,8 @@ Heya! I'm Beatriz Férre, a C.S student currently studying and living in Recife,
 
 <br/>
 <p align="left">
-![Bia's GitHub stats](https://github-readme-stats.vercel.app/api?username=biaferre&theme=solarized-light&show_icons=true)    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=biaferre&theme=gruvbox&hide_border=true" />
+<img src = "https://github-readme-stats.vercel.app/api?username=biaferre&theme=solarized-light&show_icons=true)"/>    
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=biaferre&theme=gruvbox&hide_border=true" />
 </p>
 <br>
 
