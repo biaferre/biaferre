@@ -20,7 +20,7 @@
 <p align="center">
 
   ![Bia's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=solarized-light&show_icons=true)
- <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=biaferre&theme=solarized-light&layout=compact"/>
+ <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=biaferre&theme=solarized-light&layout=compact&card_width=300"/>
 </p>
 
 
