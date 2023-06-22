@@ -38,6 +38,7 @@
 <p align="center">
 <img height = "40%" src = "https://github-readme-stats.vercel.app/api?username=biaferre&theme=solarized-light&show_icons=true)"/>    
  <img height = "40%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=biaferre&theme=solarized-light&layout=compact"/>
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bez.ferre&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ffeccc&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=bez.ferre&redirect=true)
 </p>
 <br>
 
