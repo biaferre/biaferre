@@ -7,11 +7,11 @@
   <a href="https://www.linkedin.com/in/beatriz-df%C3%A9rre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-### Hi there :) i'm...
-
 <div align="center">
   <img src="https://i.pinimg.com/564x/55/d7/2f/55d72f3cc21f4a5e1ccca6a0a2cef8ce.jpg">
 </div>
+
+### Hi there :) i'm...
 
 - 🔖 a Computer Science student @ <a href="https://portal.cin.ufpe.br">CIn UFPE</a>
 - 🍏 a member of the <a href="https://www.developeracademy.cin.ufpe.br">Apple Developer Academy</a>, where I <a href="https://github.com/stars/biaferre/lists/my-apps-for-ada">develop projects in Swift for iOS Devices</a>
