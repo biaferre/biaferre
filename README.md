@@ -2,7 +2,7 @@
   <b>🏠 Bia Férre's home 🏠</b>
 </h2>
 
-### hi there :) i'm...
+Hi there :) i'm...
 
 <div align="center">
   <img src="https://i.pinimg.com/564x/55/d7/2f/55d72f3cc21f4a5e1ccca6a0a2cef8ce.jpg">
@@ -14,7 +14,7 @@
 
 
 <h3 align="left">
-  <b>📐 Stats 📐</b>
+  <b>Stats 📐</b>
 </h3>
 
 <p align="center">
