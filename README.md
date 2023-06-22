@@ -23,9 +23,7 @@
 </p>
 
 
-<p align="center">
- <img height: "50%" src= "https://i.pinimg.com/564x/9d/9e/87/9d9e8764d9c7cec2dc443918d1e598fe.jpg"/>
-  
+<p align="center">  
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bez.ferre&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ffeccc&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=bez.ferre&redirect=true)
   
 </p>
