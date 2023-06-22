@@ -17,7 +17,7 @@
   <b>📐 Stats 📐</b>
 </h3>
 
-<p align="left">
+<p align="center">
 <img src = "https://github-readme-stats.vercel.app/api?username=biaferre&theme=solarized-light&show_icons=true)"/>    
  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=biaferre&theme=solarized-light&layout=compact"/>
 </p>
