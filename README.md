@@ -24,11 +24,9 @@
 </p>
 
 
-<p align="center">  
-
 <b>🎧 currently listening to:</b>
+<p align="center">  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bez.ferre&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ffeccc&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=bez.ferre&redirect=true)
-  
 </p>
 
 
