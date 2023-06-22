@@ -29,7 +29,7 @@
 
 <p align="center">
 
-<img src= "https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=solarized-lightshow_icons=true"/>
+<img src= "https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=solarized-light&show_icons=true"/>
  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=biaferre&layout=compact&theme=solarized-light"/>
 </p>
 
