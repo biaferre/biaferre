@@ -32,14 +32,12 @@
 </div>
 -->
 
-## My Statistics
-
-<br/>
 <p align="center">
 <img height = "10%" src = "https://github-readme-stats.vercel.app/api?username=biaferre&theme=solarized-light&show_icons=true)"/>    
  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=biaferre&theme=solarized-light&layout=compact"/>
 </p>
-<br>
+
+
 <div align="center">
  <img src= "https://i.pinimg.com/564x/9d/9e/87/9d9e8764d9c7cec2dc443918d1e598fe.jpg"/>
   
