@@ -2,7 +2,11 @@
   <b>Beatriz Férre</b>
 </h1>
 
-Heya! I'm Beatriz Férre, a C.S student currently studying and living in Recife, Brazil. I study at <a href="https://portal.cin.ufpe.br">CIn UFPE</a>, and am a member of the <a href="https://www.developeracademy.cin.ufpe.br">Apple Developer Academy</a>, where I <a href="https://github.com/stars/biaferre/lists/my-apps-for-ada">develop projects in Swift for iOS Devices</a>. I am very interested in Product and UX/UI Design, and often post about it <a href= "https://www.instagram.com/okbibia/">here</a>. 
+### 🌱 hi there :)
+
+- C.S student @ <a href="https://portal.cin.ufpe.br">CIn UFPE</a>
+- member of the <a href="https://www.developeracademy.cin.ufpe.br">Apple Developer Academy</a>, where I <a href="https://github.com/stars/biaferre/lists/my-apps-for-ada">develop projects in Swift for iOS Devices</a>
+- also interested in Product and UX/UI Design, and often post about it <a href= "https://www.instagram.com/okbibia/">here</a>. 
 
 <br>
 
