@@ -31,16 +31,14 @@
   <p>
 <img src= "https://github-readme-stats.vercel.app/api?username=biaferre&theme=solarized-light&layout=compac&show_icons=true"/>
 </p>
-<p>
+<p align ="center">
   <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=biaferre&theme=solarized-light&show_icons=true"/>
-</p>  
-</div>
-
-<b>🎧 currently listening to:</b>
+  <b>🎧 currently listening to:</b>
 <p align="center">  
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bez.ferre&cover_image=true&theme=novatorem&show_offline=false&background_color=fffbb9&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-</p>
+</p>  
+</div>
 
 
 
