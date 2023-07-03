@@ -27,12 +27,14 @@
 
 ### Stats 
 
-<p align="left">
- <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=biaferre&theme=solarized-light&show_icons=true"/>
-
+<div>
+  <p>
 <img src= "https://github-readme-stats.vercel.app/api?username=biaferre&theme=solarized-light&layout=compac&show_icons=true"/>
 </p>
-
+<p>
+  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=biaferre&theme=solarized-light&show_icons=true"/>
+</p>  
+</div>
 
 <b>🎧 currently listening to:</b>
 <p align="center">  
