@@ -19,7 +19,20 @@
 - 🍏 a member of the <a href="https://www.developeracademy.cin.ufpe.br">Apple Developer Academy</a>, where I <a href="https://github.com/stars/biaferre/lists/my-apps-for-ada">develop projects in Swift for iOS Devices</a>
 - 🍵 interested in Product and UX/UI Design, and often post about it <a href= "https://www.instagram.com/okbibia/">here</a>. 
 
+<details>
 
+  <summary><h3> Favorite Languages </h3></summary>
+
+<div>
+  <p align = "center">
+    
+<img src= "	https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
+<img src= "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</p>
+
+</details>
 
 <details>
 
