@@ -30,7 +30,7 @@
 <div>
   <p align = "center">
     
-  ![Bia's GitHub stats](https://github-readme-stats.vercel.app/api?username=biaferre&show_icons=true&theme=solarized-light)
+  ![Bia's GitHub stats](https://github-readme-stats.vercel.app/api?username=biaferre&show_icons=true&theme=panda)
 </p>
 
   <b>🎧 currently listening to:</b>  
