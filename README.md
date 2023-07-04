@@ -21,7 +21,7 @@
 
 <details>
 
-  <summary>### Stats </summary>
+ ### <summary> Stats </summary>
 
 <div>
   <p align = "center">
