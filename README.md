@@ -31,7 +31,9 @@
   <p align = "center">
     
   ![Bia's GitHub stats](https://github-readme-stats.vercel.app/api?username=biaferre&show_icons=true&theme=panda)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biaferre)](https://github.com/anuraghazra/github-readme-stats)
 </p>
+
 
   <b>🎧 currently listening to:</b>  
   <p>
