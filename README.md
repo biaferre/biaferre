@@ -30,9 +30,8 @@
 <div>
   <p align = "center">
     
-  ![Bia's GitHub stats](https://github-readme-stats.vercel.app/api?username=biaferre&show_icons=true&theme=panda)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biaferre)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+![biaferre's Streak](https://github-readme-streak-stats.herokuapp.com/?user=biaferre&theme=vue-dark&hide_border=true)
+![biaferre's Stats](https://github-readme-stats.vercel.app/api?username=biaferre&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)</p>
 
 
   <b>🎧 currently listening to:</b>  
