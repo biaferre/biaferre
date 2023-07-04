@@ -19,8 +19,9 @@
 
 
 
+<details>
 
-### Stats 
+  <summary>### Stats </summary>
 
 <div>
   <p align = "center">
@@ -28,6 +29,7 @@
 ![biaferre's Streak](https://github-readme-streak-stats.herokuapp.com/?user=biaferre&theme=vue-dark&hide_border=true)
 ![biaferre's Stats](https://github-readme-stats.vercel.app/api?username=biaferre&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)</p>
 
+</details>
 
   <b>🎧 currently listening to:</b>  
   <p>
