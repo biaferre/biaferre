@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.pinimg.com/564x/55/d7/2f/55d72f3cc21f4a5e1ccca6a0a2cef8ce.jpg">
+  <img src="https://imgur.com/rwuAqlv.jpg">
 </div>
 
 ### Hi there :) i'm...
