@@ -39,10 +39,3 @@
 </div>
 
 </details>
-
-  <b>🎧 currently listening to:</b>  
-  <p>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bez.ferre&cover_image=true&theme=novatorem&show_offline=false&background_color=fffbb9&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-</p>  
-</div>
