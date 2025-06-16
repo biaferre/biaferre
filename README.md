@@ -16,29 +16,12 @@
 
 ### Hi there :) i'm a...
 
-- 📚 Computer Science student @ <a href="https://portal.cin.ufpe.br">CIn UFPE</a>
-- 🚘 Software Development Intern @ Uber
+I'm a Software Development Intern @ Uber and Computer Science student @ <a href="https://portal.cin.ufpe.br">CIn UFPE</a>.
+But there's more! I'm also a/an:
+
 - ⚛️ Quantum Computing researcher and academic league coordinator @ <a href="https://www.instagram.com/laciq.ufpe">LACIQ</a>
 - 🍏 <a href="https://www.developeracademy.cin.ufpe.br">Apple Developer Academy</a> alumni, where I developed <a href="https://github.com/stars/biaferre/lists/my-apps-for-ada">projects in Swift for iOS Devices</a>
 - 🧑‍🎨 Amateur Product and UX/UI Designer, and often post about it <a href= "https://www.instagram.com/okbibia/">on social media</a>
 - 🎨 Generative art enthusiast, coding mainly with Processing.
-
-</details>
-
-<details>
-
-  <summary><h3> Stats </h3></summary>
-
-<div>
-  <p align = "center">
-    
-![biaferre's Streak](https://github-readme-streak-stats.herokuapp.com/?user=biaferre&theme=vue-dark&hide_border=true)
-![biaferre's Stats](https://github-readme-stats.vercel.app/api?username=biaferre&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)</p>
-<div align = "center">
-<img src= "https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
-<img src= "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</div>
 
 </details>
