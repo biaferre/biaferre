@@ -17,6 +17,7 @@
 ### Hi there :) i'm a...
 
 I'm a Software Development Intern @ Uber and Computer Science student @ <a href="https://portal.cin.ufpe.br">CIn UFPE</a>.
+
 But there's more! I'm also a/an:
 
 - ⚛️ Quantum Computing researcher and academic league coordinator @ <a href="https://www.instagram.com/laciq.ufpe">LACIQ</a>
