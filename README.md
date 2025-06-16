@@ -14,13 +14,14 @@
   <i>art by me via generative coding</i>
 </div>
 
-### Hi there :) i'm...
+### Hi there :) i'm a...
 
-- 📚 a Computer Science student @ <a href="https://portal.cin.ufpe.br">CIn UFPE</a>
-- 🚘 a Software Development Intern @ Uber
-- ⚛️ a Quantum Computing researcher and <a href="https://www.instagram.com/laciq.ufpe">league member</a>
-- 🍏 an <a href="https://www.developeracademy.cin.ufpe.br">Apple Developer Academy</a> alumni, where I developed <a href="https://github.com/stars/biaferre/lists/my-apps-for-ada">projects in Swift for iOS Devices</a>
-- 🍵 interested in Product and UX/UI Design, and often post about it <a href= "https://www.instagram.com/okbibia/">on social media</a>.
+- 📚 Computer Science student @ <a href="https://portal.cin.ufpe.br">CIn UFPE</a>
+- 🚘 Software Development Intern @ Uber
+- ⚛️ Quantum Computing researcher and academic league coordinator @ <a href="https://www.instagram.com/laciq.ufpe">LACIQ</a>
+- 🍏 <a href="https://www.developeracademy.cin.ufpe.br">Apple Developer Academy</a> alumni, where I developed <a href="https://github.com/stars/biaferre/lists/my-apps-for-ada">projects in Swift for iOS Devices</a>
+- 🧑‍🎨 Amateur Product and UX/UI Designer, and often post about it <a href= "https://www.instagram.com/okbibia/">on social media</a>
+- 🎨 Generative art enthusiast, coding mainly with Processing.
 
 </details>
 
