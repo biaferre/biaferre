@@ -22,7 +22,7 @@ But there's more! I'm also a/an:
 
 - ⚛️ Quantum Computing researcher and academic league coordinator @ <a href="https://www.instagram.com/laciq.ufpe">LACIQ</a>
 - 🍏 <a href="https://www.developeracademy.cin.ufpe.br">Apple Developer Academy</a> alumni, where I developed <a href="https://github.com/stars/biaferre/lists/my-apps-for-ada">projects in Swift for iOS Devices</a>
-- 🧑‍🎨 Amateur Product and UX/UI Designer, and often post about it <a href= "https://www.instagram.com/okbibia/">on social media</a>
+- 🧑‍🎨 Product and UX/UI Designer, and often post about it <a href= "https://www.instagram.com/okbibia/">on social media</a>
 - 🎨 Generative art enthusiast, coding mainly with Processing.
 
 </details>
