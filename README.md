@@ -25,4 +25,6 @@ But there's more! I'm also a/an:
 - 🧑‍🎨 Product and UX/UI Designer, and often post about it <a href= "https://www.instagram.com/okbibia/">on social media</a>
 - 🎨 Generative art enthusiast, coding mainly with Processing.
 
+As hobbies, I like to make music and play with Arduino. :D
+
 </details>
