@@ -11,7 +11,7 @@
 
 <div align="center">
   <img src="https://imgur.com/rwuAqlv.jpg">
-  <i>art by me via generative coding</i>
+  <i>art by me via generative coding (not AI!)</i>
 </div>
 
 ### Hi there :) i'm a...
