@@ -16,7 +16,7 @@
 
 ### Hi there :) i'm a...
 
-I'm a Software Development Intern @ Uber and Computer Science student @ <a href="https://portal.cin.ufpe.br">CIn UFPE</a>.
+I'm a Software Developer @ Uber and Computer Science student @ <a href="https://portal.cin.ufpe.br">CIn UFPE</a>.
 
 But there's more! I'm also a/an:
 
